@@ -6,6 +6,7 @@ from ultils.generate_add_wordcloud_issue import generate_add_wordcloud_link
 from ultils.generate_time_stamp import generate_formatted_timestamp
 from ultils.generate_readme import generate_readme
 from static.templates.template_1 import generate_template_1_content
+import time
 
 config = dotenv_values()
 api_token = config.get("token") or os.getenv("token")
@@ -31,10 +32,12 @@ issues_string = " ".join(strings)
 cloud_input = "live laugh love " + issues_string
 
 generate_word_cloud_image(cloud_input)
+time.sleep(10)
 print("image updated")
 add_wordcloud_link = generate_add_wordcloud_link(repository_owner, repository_name)
 time_stamp = generate_formatted_timestamp()
 
 readme_content = generate_template_1_content(time_stamp, add_wordcloud_link)
 generate_readme(readme_content)
+time.sleep(10)
 print("readme updated")
