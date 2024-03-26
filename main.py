@@ -52,7 +52,8 @@ if repos:
                     language_summary[language] = bytes_count
 
     # Sort languages by size
-    sorted_summary = sorted(language_summary.items(), key=lambda x: x[1], reverse=True)
+    sorted_summary = sorted(language_summary.items(),
+                            key=lambda x: x[1], reverse=True)
 
     # Group small parts (< 10%) together as "other"
     threshold = 0.1
@@ -63,7 +64,8 @@ if repos:
     color_index = 0
     # Color palette for "other"
     other_colors = list(other_colors)  # Convert tuple to list
-    colors = [other_colors[0]] * color_index + other_colors[1:]  # Assigning colors for "other"
+    colors = [other_colors[0]] * color_index + \
+             other_colors[1:]  # Assigning colors for "other"
     for language, bytes_count in sorted_summary:
         if bytes_count / sum(language_summary.values()) < threshold:
             other_size += bytes_count
@@ -74,11 +76,13 @@ if repos:
     if other_size > 0:
         labels.append('Other')
         sizes.append(other_size)
-        colors = [other_colors[0]] * color_index + other_colors[1:]  # Assigning colors for "other"
+        colors = [other_colors[0]] * color_index + \
+                 other_colors[1:]  # Assigning colors for "other"
 
     # Create pie chart without percentages
     plt.figure(figsize=(8, 6))
-    plt.pie(sizes, labels=labels, startangle=90, colors=colors, wedgeprops=dict(width=0.3, edgecolor='w'))
+    plt.pie(sizes, labels=labels, startangle=90, colors=colors,
+            wedgeprops=dict(width=0.3, edgecolor='w'))
 
     # Draw a transparent circle in the center
     centre_circle = plt.Circle((0, 0), 0.70, fc='white', alpha=0)
@@ -91,7 +95,8 @@ if repos:
     plt.tight_layout()
 
     # Save chart as image
-    plt.savefig('language_distribution.png', transparent=True)  # Save as PNG file with transparent background
+    # Save as PNG file with transparent background
+    plt.savefig('language_distribution.png', transparent=True)
 
     # Display plot
     plt.show()
