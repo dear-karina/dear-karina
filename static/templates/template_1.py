@@ -44,7 +44,7 @@ Click [here]({link_to_create_templated_issue}) to add some words to my cloud!
 
 ---
 
-This file is auto-generated everytime a new issue is opened.
+This file is auto-generated every time a new issue is opened.
 
 Last update at {updated_time}
 """

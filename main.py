@@ -27,7 +27,7 @@ matched_issues = [issue for issue in issues if issue["title"].startswith(prefix)
 strings = [issue["title"][len(prefix):].strip() for issue in matched_issues]
 issues_string = " ".join(strings)
 
-cloud_input = "live laugh love" + issues_string
+cloud_input = "live laugh love " + issues_string
 
 generate_word_cloud_image(cloud_input)
 
