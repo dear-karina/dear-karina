@@ -1,11 +1,15 @@
 import requests
 from dotenv import dotenv_values
 from ultils.generate_word_cloud import generate_word_cloud_image
+from ultils.generate_add_wordcloud_issue import generate_add_wordcloud_link
+from ultils.generate_time_stamp import generate_formatted_timestamp
+from ultils.generate_readme import generate_readme
+from static.templates.template_1 import generate_template_1_content
 
 config = dotenv_values()
 api_token = config["token"]
 repository_owner = "dear-karina"
-repository_name = "dear-karina"
+repository_name = "github_readme_updater"
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues"
 params = {
     "state": "all",
@@ -21,9 +25,16 @@ issues = response.json()
 prefix = "wordcloud|add|"
 matched_issues = [issue for issue in issues if issue["title"].startswith(prefix)]
 strings = [issue["title"][len(prefix):].strip() for issue in matched_issues]
-
 issues_string = " ".join(strings)
 
-cloud_input = "live laugh love" + issues_string
+cloud_input = "live laugh love " + issues_string
 
 generate_word_cloud_image(cloud_input)
+
+add_wordcloud_link = generate_add_wordcloud_link(repository_owner, repository_name)
+print(add_wordcloud_link)
+time_stamp = generate_formatted_timestamp()
+print(time_stamp)
+
+readme_content = generate_template_1_content(time_stamp, add_wordcloud_link)
+generate_readme(readme_content)
