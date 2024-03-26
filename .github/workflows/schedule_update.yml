@@ -1,6 +1,9 @@
 name: Generate README
 
 on:
+  push:
+    branches:
+      - master
   issues:
     types: [ opened ]
 
