@@ -1,4 +1,4 @@
-def generate_readme_using_template_1(updated_time: str, link_to_create_issue: str, link_to_create_templated_issue: str):
+def generate_template_1_content(updated_time: str, link_to_create_issue: str, link_to_create_templated_issue: str):
     content = f"""# ✨ Hi, I'm Karina 🐣
 
 ```python
@@ -26,7 +26,7 @@ i.say_hi()
 i.show_my_message()
 ```
 
- <div>
+ <div style="max-width: 100%;">
         <img src="static/images/quote.gif" alt="― J.R.R. Tolkien, The Fellowship of the Ring" style="border-radius: 2px;">
     </div>
 
@@ -50,6 +50,4 @@ This file is auto-generated everytime a new issue is opened.
 
 Last update at {updated_time}
 """
-
-    with open("../README.md", "w") as file:
-        file.write(content)
+    return content
