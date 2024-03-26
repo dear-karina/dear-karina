@@ -1,26 +1,29 @@
 name: Generate README
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  issues:
+    types: [ opened ]
+
+  delete:
+    types: [ issues ]
 
 jobs:
   generate-readme:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-        
+        uses: actions/checkout@v4.1.1
+
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4.1.1
         with:
           python-version: '3.x'
-          
+
       - name: Install dependencies
-        run: pip install requests
-        
+        run: pip install -r requirements.txt
+
       - name: Run script to generate README
         env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: python generate_readme.py  # Adjust this command based on your script file name
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: python main.py

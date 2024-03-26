@@ -1,4 +1,5 @@
-# ✨ Hi, I'm Karina 🐣
+def generate_readme_using_template_1(updated_time: str, link_to_create_issue: str, link_to_create_templated_issue: str):
+    content = f"""# ✨ Hi, I'm Karina 🐣
 
 ```python
 class Karina:
@@ -32,11 +33,11 @@ i.show_my_message()
 ## ☁️ Send your words 🐑
 
 Have you seen the picture? If not,
-kindly [open a new issue](https://github.com/{{owner}}/{{repo}}/issues/new?title={title}&body={description}).
+kindly [open a new issue]({link_to_create_issue}).
 
 I'd also be delighted to hear from you!
 
-Click [here](https://github.com/{{owner}}/{{repo}}/issues/new?title={title}&body={description}) to add some words to my
+Click [here]({link_to_create_templated_issue}) to add some words to my
 cloud!
 
 <div style="max-width: 100%;">
@@ -47,4 +48,8 @@ cloud!
 
 This file is auto-generated everytime a new issue is opened.
 
-Last update at 6:00 am
+Last update at {updated_time}
+"""
+
+    with open("../README.md", "w") as file:
+        file.write(content)
