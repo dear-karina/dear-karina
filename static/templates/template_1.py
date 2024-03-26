@@ -26,7 +26,7 @@ i.say_hi()
 i.show_my_message()
 ```
 
- <div style="max-width: 100%;">
+ <div style="width: 100%;">
         <img src="static/images/quote.gif" alt="― J.R.R. Tolkien, The Fellowship of the Ring" style="border-radius: 2px;">
     </div>
 

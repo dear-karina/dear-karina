@@ -29,4 +29,6 @@ jobs:
       - name: Run script to generate README
         env:
           token: ${{ secrets.token }}
-        run: python main.py
+        run: |
+          python main.py
+          sleep 10
