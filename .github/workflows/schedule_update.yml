@@ -31,4 +31,3 @@ jobs:
           token: ${{ secrets.token }}
         run: |
           python main.py
-          sleep 10
