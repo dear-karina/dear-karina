@@ -8,7 +8,7 @@ from ultils.generate_readme import generate_readme
 from static.templates.template_1 import generate_template_1_content
 
 config = dotenv_values()
-api_token = os.getenv("TOKEN")
+api_token = os.getenv("token")
 repository_owner = "dear-karina"
 repository_name = "github_readme_updater"
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues"
