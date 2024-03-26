@@ -43,6 +43,6 @@ Click [here](https://github.com/dear-karina/github_readme_updater/issues/new?tit
 
 ---
 
-This file is auto-generated everytime a new issue is opened.
+This file is auto-generated every time a new issue is opened.
 
 Last update at 2:33 PM
