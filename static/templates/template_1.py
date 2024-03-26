@@ -17,7 +17,7 @@ class Karina:
         print(
             "How about you?")
 
-    def show_my_message(self):
+    def show_my_message(self, plt):
         plt.show()
 
 
