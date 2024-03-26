@@ -32,14 +32,9 @@ issues_string = " ".join(strings)
 cloud_input = "live laugh love " + issues_string
 
 generate_word_cloud_image(cloud_input)
-time.sleep(10)
 add_wordcloud_link = generate_add_wordcloud_link(repository_owner, repository_name)
-print(add_wordcloud_link)
 
 time_stamp = generate_formatted_timestamp()
-print(time_stamp)
 
 readme_content = generate_template_1_content(time_stamp, add_wordcloud_link)
 generate_readme(readme_content)
-time.sleep(10)
-print(readme_content)
