@@ -1,4 +1,5 @@
 import requests
+import os
 from dotenv import dotenv_values
 from ultils.generate_word_cloud import generate_word_cloud_image
 from ultils.generate_add_wordcloud_issue import generate_add_wordcloud_link
@@ -7,7 +8,7 @@ from ultils.generate_readme import generate_readme
 from static.templates.template_1 import generate_template_1_content
 
 config = dotenv_values()
-api_token = config["token"]
+api_token = os.getenv("TOKEN")
 repository_owner = "dear-karina"
 repository_name = "github_readme_updater"
 api_url = f"https://api.github.com/repos/{repository_owner}/{repository_name}/issues"
