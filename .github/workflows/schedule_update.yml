@@ -32,9 +32,19 @@ jobs:
         run: |
           python -m venv .venv
           source .venv/bin/activate
+      - name: Commit changed files
+        run: git commit -m "Auto updating README.md"
+
+      - name: Push to master
+        run: git push
+
+      - name: Stage changed files
+        run: git add .
+
+
 
       - name: Run script to generate README
         env:
-          token: ${{ secrets.token }}
+          token: ${{ secrets.TOKEN }}
         run: |
           python main.py
