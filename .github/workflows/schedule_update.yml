@@ -32,16 +32,22 @@ jobs:
         run: |
           python -m venv .venv
           source .venv/bin/activate
+      - name: Configure Git
+        run: |
+          git config --global user.email "karinavu.january@gmail.com"
+          git config --global user.name "Karina's Bot"
+
       - name: Commit changed files
-        run: git commit -m "Auto updating README.md"
+        run: |
+          git add .
+          git commit -m "Auto updating README.md"
 
       - name: Push to master
-        run: git push
-
-      - name: Stage changed files
-        run: git add .
-
-
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          git remote set-url origin https://github.com/${{ github.repository }}.git
+          git push origin HEAD:master
 
       - name: Run script to generate README
         env:
