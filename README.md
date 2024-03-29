@@ -6,6 +6,7 @@ class Karina:
         self.name = "Khả Vy"
         self.alias = "Karina"
         self.language = ["en_US", "vi_VN"]
+        self.mbti= "infp"
         self.the_er_types = ["learner", "loner", "tester", "coder"]
 
     def say_hi(self):
@@ -25,13 +26,11 @@ i.say_hi()
 i.show_my_message()
 ```
 
- <div style="width: 100%;">
+ <div align="center">
         <img src="static/images/quote.gif" alt="― J.R.R. Tolkien, The Fellowship of the Ring" style="border-radius: 2px;">
     </div>
 
 ## ☁️ Send your words 🐑
-
-Have you seen the picture? If not, kindly open a new issue.
 
 I'd also be delighted to hear from you!
 
@@ -45,4 +44,4 @@ Click [here](https://github.com/dear-karina/github_readme_updater/issues/new?tit
 
 This file is auto-generated every time a new issue is opened.
 
-Last update at 1.57 PM 26-03-2024
+Last update at 3.46 AM 29-03-2024
