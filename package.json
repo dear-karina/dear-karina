@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "name": "github_readme_updater",
+  "version": "3.0.0",
+  "description": "Readme Updater Template 3",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npx tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dear-karina/dear-karina.git"
+  },
+  "author": "Karina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dear-karina/dear-karina/issues"
+  },
+  "homepage": "https://github.com/dear-karina/dear-karina#readme"
+}
