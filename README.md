@@ -18,7 +18,7 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update 🌀<br><br>
+     Today's Update 🌀<br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
 
