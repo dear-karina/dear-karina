@@ -38,16 +38,16 @@ The man was a lighthouse operator (which also means that he lives in the lightho
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
 
-<img src="https://images.unsplash.com/photo-1601126374163-29f78d5e6d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2NjEzNzZ8&ixlib=rb-4.0.3&q=80&w=1080" width=1050px>
-<p align="center">
+<img src="https://images.unsplash.com/photo-1601126374163-29f78d5e6d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2NjEzNzZ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px" height="150" style="object-fit: cover;">
+<p align="center" style="font-style:italic">
     late summer flower
 </p>
 
-![Static Badge](https://img.shields.io/badge/%EB%82%A8%EC%98%88%EC%A4%80-Nam_Yejun-blue?style=flat&label=%EB%82%A8%EC%98%88%EC%A4%80&labelColor=black)
-![Static Badge](https://img.shields.io/badge/%ED%95%9C%EB%85%B8%EC%95%84-Han_Noah-purple?style=flat&label=%EB%82%A8%EC%98%88%EC%A4%80&labelColor=black)
-![Static Badge](https://img.shields.io/badge/%EC%B1%84%EB%B4%89%EA%B5%AC-Chae_Bonggu-pink?style=flat&labelColor=black)
-![Static Badge](https://img.shields.io/badge/%EB%8F%84%EC%9D%80%ED%98%B8-Do_Eunho-red?style=flat&labelColor=black)
-![Static Badge](https://img.shields.io/badge/%EC%9C%A0%ED%95%98%EB%AF%BC-Yu_Hamin-green?style=flat&labelColor=black)
+![Static Badge](https://img.shields.io/badge/%EB%82%A8%EC%98%88%EC%A4%80-Nam_Yejun-blue?style=flat&label=%EB%82%A8%EC%98%88%EC%A4%80&labelColor=black) &nbsp;
+![Static Badge](https://img.shields.io/badge/%ED%95%9C%EB%85%B8%EC%95%84-Han_Noah-purple?style=flat&label=%EB%82%A8%EC%98%88%EC%A4%80&labelColor=black) &nbsp;
+![Static Badge](https://img.shields.io/badge/%EC%B1%84%EB%B4%89%EA%B5%AC-Chae_Bonggu-pink?style=flat&labelColor=black) &nbsp;
+![Static Badge](https://img.shields.io/badge/%EB%8F%84%EC%9D%80%ED%98%B8-Do_Eunho-red?style=flat&labelColor=black) &nbsp;
+![Static Badge](https://img.shields.io/badge/%EC%9C%A0%ED%95%98%EB%AF%BC-Yu_Hamin-black?style=flat&labelColor=black) &nbsp;
 
 ---
 
