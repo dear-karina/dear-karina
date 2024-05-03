@@ -38,9 +38,9 @@ The man was a lighthouse operator (which also means that he lives in the lightho
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
 
-<img src="https://images.unsplash.com/photo-1601126374163-29f78d5e6d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2NjEzNzZ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px" height="150">
+<img src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ3MjI2NDR8&ixlib=rb-4.0.3" width="1050px">
 <p align="center" style="font-style:italic">
-    late summer flower
+    brown rock formation under blue sky
 </p>
 
 ![Static Badge](https://img.shields.io/badge/%EB%82%A8%EC%98%88%EC%A4%80-Nam_Yejun-blue?style=flat&label=%EB%82%A8%EC%98%88%EC%A4%80&labelColor=black) &nbsp;
