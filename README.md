@@ -1,19 +1,14 @@
-<div style="text-align: center;">
-    💙💜💗❤️🖤
-</div>
-<div style="text-align: center; font-family: Courier; font-weight: bold; color: #3a0ca3">
-    Play Reeve - Play Reality
-</div>
-
----
-
-#### Song Of The Day 🌌💿
-
+<h2 align="center">
+    💙💜💗❤️🖤<br>
+Play Reeve - Play Reality
+</h2>
+<h3 align="center">
+    Song Of The Day 🌌💿<br><br>
 <div align="center">
         <img src="lib/images/way4luv.gif"S style="border-radius: 2px;">
     </div>
-
-#### Today's Update 🌀
+<h4 align="center">
+     Today's Update 🌀<br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
 
@@ -43,10 +38,10 @@ The man was a lighthouse operator (which also means that he lives in the lightho
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
 
-<img src="https://images.unsplash.com/photo-1601126374163-29f78d5e6d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2NjEzNzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="Alt text" style="width:1050px;">
-<div style="text-align: center;font-style: italic; font-size:12">
+<img src="https://images.unsplash.com/photo-1601126374163-29f78d5e6d9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2NjEzNzZ8&ixlib=rb-4.0.3&q=80&w=1080" width=1050px>
+<p align="center">
     late summer flower
-</div>
+</p>
 
 ![Static Badge](https://img.shields.io/badge/%EB%82%A8%EC%98%88%EC%A4%80-Nam_Yejun-blue?style=flat&label=%EB%82%A8%EC%98%88%EC%A4%80&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/%ED%95%9C%EB%85%B8%EC%95%84-Han_Noah-purple?style=flat&label=%EB%82%A8%EC%98%88%EC%A4%80&labelColor=black)
@@ -58,17 +53,21 @@ The man was a lighthouse operator (which also means that he lives in the lightho
 
 #### Techs and Tools used to create this file
 
-<img height="20" width="20" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/markdown.svg" />
-<img height="20" width="20" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubactions.svg" />
-<img height="20" width="20" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" />
-<img height="20" width="20" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" />
-<img height="20" width="20" style="margin: 0px 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/unsplash.svg" />
+<p align="center">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/markdown.svg" alt="markdown" height="22px" width="22px" />
+  &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/githubactions.svg" alt="githubactions" height="22px" width="22px" />
+  &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/canva.svg" alt="canva" height="22px" width="22px" />
+  &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" height="22px" width="22px" />  
+</p>
 
 #### APIs used
 
 **_Quote:_** [API Ninja - Quotes](https://api-ninjas.com/api/quotes)<br>
 **_Riddle:_** [API Ninja - Riddles](https://api-ninjas.com/api/riddles)<br>
-**_Photo:_** [Unsplash](https://unsplash.com/developers)
+**_Photo:_** [Unsplash](https://unsplash.com/developers)<br>
 **_Weather:_** [OpenWeather](https://openweathermap.org)
 
 ---
