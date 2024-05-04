@@ -1,30 +1,16 @@
-// Noah
-
-export type Quote = {
+export class Quote {
   quote: string;
   author: string;
-  category?:
-    | "age"
-    | "alone"
-    | "amazing"
-    | "anger"
-    | "architecture"
+  category?: "amazing"
     | "art"
     | "attitude"
     | "beauty"
     | "best"
-    | "birthday"
-    | "business"
-    | "car"
     | "change"
     | "communication"
-    | "computers"
     | "cool"
     | "courage"
-    | "dad"
-    | "dating"
     | "death"
-    | "design"
     | "dreams"
     | "education"
     | "environmental"
@@ -42,33 +28,28 @@ export type Quote = {
     | "friendship"
     | "funny"
     | "future"
-    | "god"
     | "good"
-    | "government"
-    | "graduation"
     | "great"
     | "happiness"
     | "health"
-    | "history"
     | "home"
     | "hope"
     | "humor"
     | "imagination"
     | "inspirational"
     | "intelligence"
-    | "jealousy"
     | "knowledge"
     | "leadership"
     | "learning"
     | "legal"
     | "life"
     | "love"
-    | "marriage"
-    | "medical"
-    | "men"
-    | "mom"
-    | "money"
-    | "morning"
     | "movies"
     | "success";
-};
+
+  constructor(quote: string, author: string, category?: Quote['category']) {
+    this.quote = quote;
+    this.author = author;
+    this.category = category;
+  }
+}
