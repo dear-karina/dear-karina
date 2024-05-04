@@ -1,5 +1,11 @@
 export const marineFacts=[
     {
+        id: 0,
+        title:"They are dark",
+        description:"Because only the first few hundred metres of the ocean are illuminated by the sun and half the planet is constantly experiencing night time, up to 99% of the ocean is actually in complete darkness all the time. Yet this is something that we rarely consider when thinking about our oceans.",
+        keyword:["marine"]
+    },
+    {
         id: 1,
         title:"",
         description:"The average depth of the ocean is 12,100 feet.",

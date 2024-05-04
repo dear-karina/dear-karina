@@ -1,5 +1,12 @@
 export const beautifulWords = [
     {
+        id: 0,
+        word: "serendipity",
+        form: "n",
+        meaning: "The occurrence and development of events by chance in a happy or beneficial way",
+        origin: "English"
+      },
+    {
       id: 1,
       word: "mellifluous",
       form: "adj",
