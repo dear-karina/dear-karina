@@ -187,9 +187,11 @@ describe('testing models', ()=>{
         const object = beautifulWords[0];
         const word = Word.fromObject(object);
         expect(word.id).toBe(0);
-        expect(word.form).toBe("adj");
-        expect(word.meaning).toBe("A sound that’s pleasing and sweet to hear");
-        expect(word.origin).toBe("Latin");
+        expect(word.word).toBe("serendipity");
+        expect(word.form).toBe("n");
+        expect(word.meaning).toBe("The occurrence and development of events by chance in a happy or beneficial way");
+        expect(word.origin).toBe("English");
+
     });
     
 })
