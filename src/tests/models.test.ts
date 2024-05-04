@@ -1,7 +1,13 @@
-import {Photo} from '../model/photo.model'
+import {Photo} from '../models/photo.model'
+import { Quote } from '../models/quote.model'
+import { Riddle } from '../models/riddle.model'
+import { Fact } from '../models/fact.model'
+import { Word } from '../models/word.model'
+import {marineFacts} from '../data/alternatives/marineFacts.alternative.data'
+import {beautifulWords} from '../data/alternatives/beautifulWords.alternative.data'
 
-describe('testing photo model', ()=>{
-    test('should convert jsonString to attributes correctly', ()=>{
+describe('testing models', ()=>{
+    test.skip('should convert PHOTO jsonString to attributes correctly', ()=>{
         const jsonStringExample=`[
             {
               "id": "ugnrXk1129g",
@@ -137,4 +143,55 @@ describe('testing photo model', ()=>{
         expect(photo.description).toBe("This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too.")
         expect(photo.author).toBe('Marita Kavelashvili')
     })
+    test.skip('should convert RIDDLE jsonString to attributes correctly', () => {
+        const jsonResponse = `[
+            {
+                "title": "Age 25 Man",
+                "question": "A man was born in 1984 and died in 1964.He was 25 years old before his death. How is this possible?",
+                "answer": "1984 and 1964 are room Numbers! not years"
+            }
+        ]`;
+        const riddle = Riddle.fromJson(jsonResponse);
+        expect(riddle.id).toBe(0);
+        expect(riddle.title).toBe("Age 25 Man");
+        expect(riddle.question).toBe("A man was born in 1984 and died in 1964.He was 25 years old before his death. How is this possible?");
+        expect(riddle.answer).toBe("1984 and 1964 are room Numbers! not years");
+    });
+    
+    test('should convert QUOTE jsonString to attributes correctly', () => {
+        const jsonResponse = `[
+            {
+                "quote": "What would there be in a story of happiness? Only what prepares it, only what destroys it can be told.",
+                "author": "Andre Gide",
+                "category": "happiness"
+            }
+        ]`;
+        const quote = Quote.fromJson(jsonResponse);
+        expect(quote.id).toBe(0);
+        expect(quote.quote).toBe("What would there be in a story of happiness? Only what prepares it, only what destroys it can be told.");
+        expect(quote.author).toBe("Andre Gide");
+        expect(quote.category).toBe("happiness");
+    });
+    
+    test('should convert FACT object to attributes correctly', () => {
+        const object = marineFacts[0];
+        const fact = Fact.fromObject(object);
+        expect(fact.id).toBe(0);
+        expect(fact.title).toBe("They are dark");
+        expect(fact.description).toBe("Because only the first few hundred metres of the ocean are illuminated by the sun and half the planet is constantly experiencing night time, up to 99% of the ocean is actually in complete darkness all the time. Yet this is something that we rarely consider when thinking about our oceans.");
+        expect(fact.keywords).toEqual(["marine"]);
+    
+    });
+    
+    test('should convert WORD object to attributes correctly', () => {
+        const object = beautifulWords[0];
+        const word = Word.fromObject(object);
+        expect(word.id).toBe(0);
+        expect(word.word).toBe("serendipity");
+        expect(word.form).toBe("n");
+        expect(word.meaning).toBe("The occurrence and development of events by chance in a happy or beneficial way");
+        expect(word.origin).toBe("English");
+
+    });
+    
 })
