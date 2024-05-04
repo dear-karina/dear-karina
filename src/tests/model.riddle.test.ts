@@ -1,4 +1,4 @@
-import { Riddle } from "../model/riddle.model";
+import { Riddle } from "../models/riddle.model";
 
 describe('testing riddle model', ()=>{
     test('should convert jsonString to attributes correctly', ()=>{

@@ -1,4 +1,4 @@
-import {Photo} from '../model/photo.model'
+import {Photo} from '../models/photo.model'
 
 describe('testing photo model', ()=>{
     test('should convert jsonString to attributes correctly', ()=>{
