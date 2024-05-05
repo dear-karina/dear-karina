@@ -1,6 +1,6 @@
 import { Word } from "../../models/word.model"
 import { beautifulWords } from "../alternatives/beautifulWords.alternative.data"
-export const get_fact=()=>{
+export const get_word=()=>{
     return get_from_alternatives(0)
 }
 
