@@ -1,4 +1,4 @@
-const plavePhotos = [
+export const plavePhotos = [
     {
       id: 0,
       url: "lib/alternative_images/plave_w4l.jpeg",
