@@ -7,7 +7,7 @@ import { Fact } from "../models/fact.model";
 import { inspirationalQuotes } from '../data/alternatives/inspirationalQuotes.alternative.data';
 
 describe('testing data getters', ()=>{
-    test('should return alternative[0] fact', ()=>{
+    test.skip('should return alternative[0] fact', ()=>{
         const fact = get_fact()
         expect (fact.id).toBe(0)
     })

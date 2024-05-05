@@ -8,8 +8,8 @@ export class Photo {
     public author: string
   ) {}
 
-  static fromJson(jsonResponse: string): Photo {
-    const jsonObject = JSON.parse(jsonResponse)[0];
+  static fromJson(jsonObject: any): Photo {
+    jsonObject= jsonObject[0];
     return new Photo(
       0,
       jsonObject.urls.regular,

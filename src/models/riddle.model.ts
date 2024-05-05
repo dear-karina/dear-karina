@@ -7,8 +7,8 @@ export class Riddle {
     public answer: string
   ) {}
 
-  static fromJson(jsonResponse: string): Riddle {
-    const jsonObject = JSON.parse(jsonResponse)[0];
+  static fromJson(jsonObject: any): Riddle {
+    jsonObject= jsonObject[0];
     return new Riddle(
       0,
       jsonObject.title,

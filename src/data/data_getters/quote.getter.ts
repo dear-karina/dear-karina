@@ -8,7 +8,7 @@ export const get_quote=async (category: string="inspirational")=>{
             'X-Api-Key': process.env.QUOTE_API_KEY
           }
         });
-        return Quote.fromObject(response.data)
+        return Quote.fromJson(response.data)
       } catch (error) {
         if (axios.isAxiosError(error)) {
           console.error('Request failed:', error.message);
