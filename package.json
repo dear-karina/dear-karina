@@ -12,7 +12,9 @@
   "main": "src/index.ts",
   "scripts": {
     "test": "npx tsc && node dist/index.js",
-    "unittest": "jest"
+    "unittest": "jest",
+    "unittest:model": "jest src/tests/models.test.ts",
+    "unittest:getter": "jest src/tests/dataGetters.test.ts"
   },
   "repository": {
     "type": "git",

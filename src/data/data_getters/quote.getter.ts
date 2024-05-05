@@ -3,15 +3,12 @@ import { Quote } from "../../models/quote.model";
 import { inspirationalQuotes } from '../alternatives/inspirationalQuotes.alternative.data';
 export const get_quote=async (category: string="inspirational")=>{
     try {
-        const response = await axios.get('https://api.api-ninjas.com/v1/quotes', {
-          params: {
-            category: category
-          },
+        const response = await axios.get('https://api.api-ninjas.com/v1/quotes?category=' + category, {
           headers: {
             'X-Api-Key': process.env.QUOTE_API_KEY
           }
         });
-        return Quote.fromJson(response.data)
+        return Quote.fromObject(response.data)
       } catch (error) {
         if (axios.isAxiosError(error)) {
           console.error('Request failed:', error.message);
