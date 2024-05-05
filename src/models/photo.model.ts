@@ -8,13 +8,25 @@ export class Photo {
     public author: string
   ) {}
 
-  static fromJson(jsonObject: any): Photo {
-    jsonObject= jsonObject[0];
-    return new Photo(
-      0,
-      jsonObject.urls.regular,
-      jsonObject.description,
-      jsonObject.user.name
-    );
+  static fromJson(jsonArray: any[]): Photo[] {
+    return jsonArray.map((jsonObject, index) => {
+      return new Photo(
+        index,
+        jsonObject.urls.regular,
+        jsonObject.description,
+        jsonObject.user.name
+      );
+    });
   }
+  static fromObjects(objectArray: any[]): Photo[] {
+    return objectArray.map((object, index) => {
+      return new Photo(
+        index,
+        object.urls.regular,
+        object.description,
+        object.user.name
+      );
+    });
+  }
+  
 }

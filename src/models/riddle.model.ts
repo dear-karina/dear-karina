@@ -16,4 +16,12 @@ export class Riddle {
       jsonObject.answer
     );
   }
+  static fromObject(object: any): Riddle {
+    return new Riddle(
+      0,
+      object.title,
+      object.question,
+      object.answer
+    );
+  }
 }
