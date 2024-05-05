@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/dear-karina/dear-karina/issues"
   },
-  "homepage": "https://github.com/dear-karina/dear-karina#readme"
+  "homepage": "https://github.com/dear-karina/dear-karina#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
 }
