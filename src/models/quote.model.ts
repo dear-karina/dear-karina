@@ -70,4 +70,12 @@ export class Quote {
       jsonObject.category
     );
   }
+  static fromObject(object: any): Quote {
+    return new Quote(
+      object.id,
+      object.quote,
+      object.author,
+      object.category
+    );
+  }
 }
