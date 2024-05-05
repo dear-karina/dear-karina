@@ -61,13 +61,21 @@ export class Quote {
     this.category = category;
   }
 
-  static fromJson(jsonResponse: string): Quote {
-    const jsonObject = JSON.parse(jsonResponse)[0];
+  static fromJson(jsonObject: any): Quote {
+    jsonObject=jsonObject[0]
     return new Quote(
       jsonObject.id,
       jsonObject.quote,
       jsonObject.author,
       jsonObject.category
+    );
+  }
+  static fromObject(object: any): Quote {
+    return new Quote(
+      object.id,
+      object.quote,
+      object.author,
+      object.category
     );
   }
 }

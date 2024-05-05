@@ -12,7 +12,9 @@
   "main": "src/index.ts",
   "scripts": {
     "test": "npx tsc && node dist/index.js",
-    "unittest": "jest"
+    "unittest": "jest",
+    "unittest:model": "jest src/tests/models.test.ts",
+    "unittest:getter": "jest src/tests/dataGetters.test.ts"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/dear-karina/dear-karina/issues"
   },
-  "homepage": "https://github.com/dear-karina/dear-karina#readme"
+  "homepage": "https://github.com/dear-karina/dear-karina#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
 }
