@@ -1,4 +1,4 @@
-const funRiddles = [
+export const funRiddles = [
     {
       id: 0,
       title: "The Missing Dollar",

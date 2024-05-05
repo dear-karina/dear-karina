@@ -1,9 +1,11 @@
 import axios from 'axios';
 import { Photo } from '../../models/photo.model';
 import { plavePhotos } from '../alternatives/plavePhotos.alternative.data';
-export const get_photo=async (count: number=1)=>{
+export const get_photos=async (count: number=1)=>{
     try {
-        const response = await axios.get(`https://api.unsplash.com/photos/random?client_id=${process.env.PHOTO_API_KEY}&orientation=landscape&count=${count}`);
+        const url = `https://api.unsplash.com/photos/random?client_id=${process.env.PHOTO_API_KEY}&orientation=landscape&count=${count}`
+        console.log(url)
+        const response = await axios.get(url);
         return Photo.fromJson(response.data)
       } catch (error) {
         if (axios.isAxiosError(error)) {
