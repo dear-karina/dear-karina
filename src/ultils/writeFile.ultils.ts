@@ -1,11 +1,18 @@
 import fs from 'fs';
 
-export const write_to_file = (data: string, file_path: string) => {
-    fs.writeFile(file_path, data, (err: NodeJS.ErrnoException | null) => {
-        if (err) {
-            console.error('Error writing to file:', err);
-            return;
-        }
+export const write_to_file = async (data: string, file_path: string) => {
+    try {
+        await new Promise<void>((resolve, reject) => {
+            fs.writeFile(file_path, data, (err: NodeJS.ErrnoException | null) => {
+                if (err) {
+                    reject(err);
+                    return;
+                }
+                resolve();
+            });
+        });
         console.log('Data has been written to the file');
-    });
+    } catch (error) {
+        console.error('Error writing to file:', error);
+    }
 }
