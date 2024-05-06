@@ -14,7 +14,8 @@
     "test": "npx tsc && node dist/index.js",
     "unittest": "jest",
     "unittest:model": "jest src/tests/models.test.ts",
-    "unittest:getter": "jest src/tests/dataGetters.test.ts"
+    "unittest:getter": "jest src/tests/dataGetters.test.ts",
+    "unittest:injection": "jest src/tests/dataInjection.test.ts"
   },
   "repository": {
     "type": "git",
