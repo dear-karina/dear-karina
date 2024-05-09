@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->The average depth of the ocean is 12,100 feet.
+>The planet's longest mountain range is underwater and is 10 times longer than the Andes. Above water, the Andes mountain range is only about 4,300 miles long, while underwater, the Mid-Oceanic Ridge mountain range is around 40,390 miles long.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Every heart that has beat strongly and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind.
+>You change your life by changing your heart.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> serendipity
+> mellifluous
 >
-> > (n)  
-> > The occurrence and development of events by chance in a happy or beneficial way.
+> > (adj)  
+> > A sound that’s pleasing and sweet to hear.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> A farmer has 17 sheep and all but 9 die. How many sheep does the farmer have left?
+> What does the riddle company do at free time????
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-9
+I don't know.Ask the riddle company itself. HAHAHAHAHAHAHAHA
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1713541493823-2238651de0a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUyNDg2NDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a close up of a pink marble texture</p>
+<img src="https://images.unsplash.com/photo-1711968558532-875818b3af09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUyNDg3NDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Birdview shot of a married couple rowing in the old wooden boat at Lago di Braies.</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ Play Reeve - Play Reality
 
 ---
 
-##### This file is updated every day. Last time at: 16:57 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 16:59 GMT + 7 🐢💚
 
 ---
