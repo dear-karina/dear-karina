@@ -51,5 +51,6 @@ const updateIndex=(index_type:ParamIndex)=>{
 
 const overideIndexFile=()=>{
     const jsonData = JSON.stringify(currentIndexes, null, 2);
-    fs.writeFileSync('src/data/currentIndex.ts', jsonData);
+    const content= `export const currentIndexes=${jsonData}`
+    fs.writeFileSync('src/data/currentIndex.ts', content);
 }
