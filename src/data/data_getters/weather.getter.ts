@@ -1,7 +1,7 @@
 import axios from "axios";
 import { Weather } from "../../models/weather.model";
 
-export const getCurrentWeather=async (location:string="Hanoi")=>{
+export const get_weather=async (location:string="Hanoi")=>{
     try {
         const response = await axios.get(`https://api.weatherapi.com/v1/current.json?q=${location}&key=${process.env.WEATHER_API_KEY}`);
         return Weather.fromJson(response.data)
