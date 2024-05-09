@@ -2,7 +2,9 @@ import { get_fact } from "../data/data_getters/fact.getter"
 import { get_photos } from "../data/data_getters/photo.getter"
 import { get_quote } from "../data/data_getters/quote.getter"
 import { get_riddle } from "../data/data_getters/riddle.getter"
+import { get_weather } from "../data/data_getters/weather.getter"
 import { get_word } from "../data/data_getters/word.getter"
+import { Weather } from "../models/weather.model"
 import { getCurrentTime } from "./getCurrentTime.ultils"
 import { transfer_fact, transfer_quote, transfer_word, transfer_riddle, transfer_photo } from "./transferToMDSyntax.ultils"
 import { write_to_file } from "./writeFile.ultils"
@@ -14,7 +16,8 @@ export const generateREADME = async () => {
     const riddle = await get_riddle();
     const photo = await get_photos(1);
     const currentTime = getCurrentTime();
-
+    const weather: Weather | null = await get_weather() || null;
+    const weather_md= weather? `<img src="${weather.icon_url}" alt="weather" height="22px" width="22px" />`: "🌀"
     const mdStart =`<h2 align="center">
     💙💜💗❤️🖤<br>
 Play Reeve - Play Reality
@@ -36,7 +39,7 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update 🌀<br>
+     Today's Update ${weather_md}<br>
 `
     const md = `
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.\n${transfer_fact(fact)}\n
@@ -68,7 +71,7 @@ const mdEnd = `---
 
 ---
 
-##### This file is updated every day. Last time at: ${getCurrentTime()} UTC 🐢💚
+##### This file is updated every day. Last time at: ${currentTime} GMT + 7 🐢💚
 
 ---
 `;
