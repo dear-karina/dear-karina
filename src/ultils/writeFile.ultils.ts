@@ -11,7 +11,7 @@ export const write_to_file = async (data: string, file_path: string) => {
                 resolve();
             });
         });
-        console.log('Data has been written to the file');
+        console.log('Index File updated');
     } catch (error) {
         console.error('Error writing to file:', error);
     }
