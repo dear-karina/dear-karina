@@ -77,5 +77,5 @@ const mdEnd = `---
 `;
 
 
-    await write_to_file(`${mdStart}${md}${mdEnd}`, 'test.md');
+    await write_to_file(`${mdStart}${md}${mdEnd}`, 'README.md');
 }
