@@ -16,7 +16,9 @@
     "unittest": "jest",
     "unittest:model": "jest src/tests/models.test.ts",
     "unittest:getter": "jest src/tests/dataGetters.test.ts",
-    "unittest:injection": "jest src/tests/dataInjection.test.ts"
+    "unittest:injection": "jest src/tests/dataInjection.test.ts",
+    "unittest:indexes": "jest src/tests/indexes.test.ts"
+
   },
   "repository": {
     "type": "git",
