@@ -22,6 +22,12 @@ jobs:
       run: npm install
 
     - name: Run TypeScript main file
+      env:
+        QUOTE_API_KEY: ${{ secrets.QUOTE_API_KEY }}
+        RIDDLE_API_KEY: ${{ secrets.RIDDLE_API_KEY }}
+        PHOTO_API_KEY: ${{ secrets.PHOTO_API_KEY }}
+        WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+
       run: npm run start
 
     - name: Commit and push changes
