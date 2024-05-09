@@ -19,43 +19,36 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update 🌀<br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png" alt="weather" height="22px" width="22px" /><br>
 
-##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
-
-> Whales sing songs in the ocean. They're like underwater concerts. They use these songs to talk to other whales and maybe even find their way around.
+##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
+>The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
-
-> "Love, friendship and respect do not unite people as much as a common hatred for something." - Anton Chekhov
+>Every heart that has beat strongly and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-
-> Euphoria
+> serendipity
 >
-> > (n) / juːˈfɔːrɪə /  
-> > A state of extreme happiness.
+> > (n)  
+> > The occurrence and development of events by chance in a happy or beneficial way.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-
-> A man comes home from work, hangs up his coat, feeds his dog, brushes his teth and turns out the light. In the morning he wakes up and realizes he had done something terribly, terribly wrong and kills himself. What did he do wrong? (Big hint: his job involves boats.)
+> A farmer has 17 sheep and all but 9 die. How many sheep does the farmer have left?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
-<br>
-The man was a lighthouse operator (which also means that he lives in the lighthouse). When he turned out the light he turned out the lighthouse light, resulting in several boat crashes overnight. He knew he was responsible, and would be in lots of trouble so he killed himself.
+
+9
 </details>
 
-##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
 
-<img src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ3MjI2NDR8&ixlib=rb-4.0.3" width="1050px">
-<p align="center">
-    brown rock formation under blue sky
-</p>
+##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
+<img src="https://images.unsplash.com/photo-1713541493823-2238651de0a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUyNDg2NDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a close up of a pink marble texture</p>
 
 ---
-
 #### Techs and Tools used to create this file
 
 <p align="center">
@@ -65,7 +58,7 @@ The man was a lighthouse operator (which also means that he lives in the lightho
   &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/canva.svg" alt="canva" height="22px" width="22px" />
   &nbsp;&nbsp;
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" height="22px" width="22px" />  
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" height="22px" width="22px" />
 </p>
 
 #### APIs used
@@ -77,6 +70,6 @@ The man was a lighthouse operator (which also means that he lives in the lightho
 
 ---
 
-##### This file is updated every day. Last time at: 18.00 🐢💚
+##### This file is updated every day. Last time at: 16:57 GMT + 7 🐢💚
 
 ---
