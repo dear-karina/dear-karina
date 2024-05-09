@@ -1,0 +1,37 @@
+{
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "name": "github_readme_updater",
+  "version": "3.0.0",
+  "description": "Readme Updater Template 3",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npx tsc && node dist/index.js",
+    "start": "npx ts-node src/index.ts",
+    "unittest": "jest",
+    "unittest:model": "jest src/tests/models.test.ts",
+    "unittest:getter": "jest src/tests/dataGetters.test.ts",
+    "unittest:injection": "jest src/tests/dataInjection.test.ts",
+    "unittest:indexes": "jest src/tests/indexes.test.ts"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dear-karina/dear-karina.git"
+  },
+  "author": "Karina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dear-karina/dear-karina/issues"
+  },
+  "homepage": "https://github.com/dear-karina/dear-karina#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
