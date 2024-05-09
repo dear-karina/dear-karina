@@ -3,7 +3,9 @@ import { Weather } from "../../models/weather.model";
 
 export const get_weather=async (location:string="Hanoi")=>{
     try {
-        const response = await axios.get(`https://api.weatherapi.com/v1/current.json?q=${location}&key=${process.env.WEATHER_API_KEY}`);
+      const url=`https://api.weatherapi.com/v1/current.json?q=${location}&key=${process.env.WEATHER_API_KEY}`
+        const response = await axios.get(url);
+
         return Weather.fromJson(response.data)
       } catch (error) {
         if (axios.isAxiosError(error)) {
