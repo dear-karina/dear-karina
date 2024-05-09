@@ -4,7 +4,6 @@ import { plavePhotos } from '../alternatives/plavePhotos.alternative.data';
 export const get_photos=async (count: number=1)=>{
     try {
         const url = `https://api.unsplash.com/photos/random?client_id=${process.env.PHOTO_API_KEY}&orientation=landscape&count=${count}`
-        console.log(url)
         const response = await axios.get(url);
         return Photo.fromJson(response.data)
       } catch (error) {

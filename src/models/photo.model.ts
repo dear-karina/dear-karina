@@ -13,7 +13,7 @@ export class Photo {
       return new Photo(
         index,
         jsonObject.urls.regular,
-        jsonObject.description,
+        jsonObject.description? jsonObject.description: jsonObject.alt_description,
         jsonObject.user.name
       );
     });

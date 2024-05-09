@@ -9,6 +9,7 @@ import { inspirationalQuotes } from '../data/alternatives/inspirationalQuotes.al
 import { get_photos } from '../data/data_getters/photo.getter';
 import { plavePhotos } from '../data/alternatives/plavePhotos.alternative.data';
 import { funRiddles } from '../data/alternatives/funRiddles.alternative.data';
+import { get_weather } from '../data/data_getters/weather.getter';
 describe('testing data getters', ()=>{
     test('should return alternative[0] fact', ()=>{
         const fact = get_fact()
@@ -36,5 +37,10 @@ describe('testing data getters', ()=>{
         expect (photos.length).toBe(4)
         const isContainedInAlternatives= photos.every((item)=> plavePhotos.includes(item))
         expect (isContainedInAlternatives).toBe(false)
+    })
+    test.only('should return api weather', async ()=>{
+        const weather = await get_weather()
+        console.log(weather)
+        expect (weather).not.toBe(null)
     })
 })

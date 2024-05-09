@@ -1,6 +1,8 @@
 import axios from 'axios';
 import { Quote } from "../../models/quote.model";
 import { inspirationalQuotes } from '../alternatives/inspirationalQuotes.alternative.data';
+import { ParamIndex } from '../constants/paramIndex.enum';
+import { getCurrentIndex } from '../../ultils/interactWithCurrentIndex';
 export const get_quote=async (category: string="inspirational")=>{
     try {
         const response = await axios.get('https://api.api-ninjas.com/v1/quotes?category=' + category, {
@@ -17,10 +19,11 @@ export const get_quote=async (category: string="inspirational")=>{
         } else {
           console.error('An unexpected error occurred:', error);
         }
-        return get_from_alternatives(0)
+        return get_from_alternatives()
       }
 }
 
-const get_from_alternatives=(index:number)=>{
+const get_from_alternatives=()=>{
+  const index= getCurrentIndex(ParamIndex.QUOTE)
     return Quote.fromObject(inspirationalQuotes[index])
 }
