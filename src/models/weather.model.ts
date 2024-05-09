@@ -5,8 +5,8 @@ export class Weather{
         return new Weather(
           `${jsonObject.name} - ${jsonObject.country}`,
           jsonObject.current.temp_c,
-          jsonObject.condition.text,
-          `https:${jsonObject.condition.icon}`,
+          jsonObject.current.condition.text,
+          `https:${jsonObject.current.condition.icon}`,
         );
       }
 }
