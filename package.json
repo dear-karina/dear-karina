@@ -12,7 +12,7 @@
   "main": "src/index.ts",
   "scripts": {
     "test": "npx tsc && node dist/index.js",
-    "build": "npx ts-node src/index.ts",
+    "start": "npx ts-node src/index.ts",
     "unittest": "jest",
     "unittest:model": "jest src/tests/models.test.ts",
     "unittest:getter": "jest src/tests/dataGetters.test.ts",
