@@ -3,7 +3,8 @@ name: Daily Job - Update README
 on:
   schedule:
     - cron: '0 7 * * *'
-  workflow-dispatch:
+
+  workflow_dispatch:
 jobs:
   run-job:
     runs-on: ubuntu-latest
