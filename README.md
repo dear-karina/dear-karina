@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->The planet's longest mountain range is underwater and is 10 times longer than the Andes. Above water, the Andes mountain range is only about 4,300 miles long, while underwater, the Mid-Oceanic Ridge mountain range is around 40,390 miles long.
+>Why are our oceans blue? Water absorbs the red light of the color spectrum, leaving the blue for us to see.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->You change your life by changing your heart.
+>One of the things that I did before I ran for president is I was a professional speaker. Not a motivational speaker - an inspirational speaker. Motivation comes from within. You have to be inspired. That's what I do. I inspire people, I inspire the public, I inspire my staff. I inspired the organizations I took over to want to succeed.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> mellifluous
+> apricity
 >
-> > (adj)  
-> > A sound that’s pleasing and sweet to hear.
+> > (n)  
+> > The warmth of the sun in winter.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> What does the riddle company do at free time????
+> I turn polar bears white and I'll maake you cry I make guy have to pee and girls comb their hair I make celebrities look stupid and normal people look like celebrities. I turn pancakes brown and make your champane bubble. If you sqeeze me, I'll pop. If you look at me, you'll pop. Can you guess the riddle?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-I don't know.Ask the riddle company itself. HAHAHAHAHAHAHAHA
+pressure
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1711968558532-875818b3af09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUyNDg3NDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Birdview shot of a married couple rowing in the old wooden boat at Lago di Braies.</p>
+<img src="https://images.unsplash.com/photo-1712246410613-534756bc002c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUzMjUyNTV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">.</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ I don't know.Ask the riddle company itself. HAHAHAHAHAHAHAHA
 
 ---
 
-##### This file is updated every day. Last time at: 16:59 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 14:14 GMT + 7 🐢💚
 
 ---
