@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
+>Half of the oxygen we breathe is produced in the ocean.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Grace is the beauty of form under the influence of freedom.
+>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> rakuyou
+> retrouvailles
 >
 > > (n)  
-> > Golden fallen or shedded leaves.
+> > The happiness of meeting again after a long time.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> What goes up but never comes down?
+> I Am big and yet samll thin yet fat. What am i?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-Your age.
+I am a tree.
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1714165860646-b8de17af3bc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU0MTE2MTR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a woman standing in front of a black church</p>
+<img src="https://images.unsplash.com/photo-1712512161827-76596122c52c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU0OTc4OTh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Final Spacewalk Duties Carried Out Using the RMS (1997) Caption Astronauts Mark C. Lee (right), payload commander, and Steven L. Smith, mission specialist, perform the final phases of Servicing Mission 2 (SM2) spacewalk duty using the Shuttle's Remote Manipulator System (RMS). Lee holds a patch piece for Bay #10, out of view, toward which the two were headed. A sample of the patch work can be seen on Bay #9 in the upper left quadrant of the picture. Credits NASA and the STS-82 Crew</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ Your age.
 
 ---
 
-##### This file is updated every day. Last time at: 14:13 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 14:11 GMT + 7 🐢💚
 
 ---
