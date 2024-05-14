@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Oceans help keep Earth’s climate habitable. By moving water around the globe, the oceans help to keep places from getting too hot or too cold.
+>Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Gratitude is the fairest blossom which springs from the soul.
+>Great hopes make great men.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> hitoritabi
+> luftmensch
 >
 > > (n)  
-> > Traveling alone, solitary journey.
+> > An impractical dreamer, literally an air person, someone with her head in the clouds.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> Imagine you are working in company making cups, and your duty is to place a handle, which side of the cup will you place the handle?
+> If you are imaging you in a desert and you are felling thirsty and some camels start running you down and you are getting dehydrated WHAT WOULD YOU DO.
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-The Outside
+STOP IMAGING
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1713422500591-daa10c032ab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU1ODQ0MDh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">the sun is shining down on the water</p>
+<img src="https://images.unsplash.com/photo-1715574735158-9ebfdf26a99e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU2NzA4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Aurora Borealis over Early winter Spires, juxtaposed with milkyway.</p>
 
 ---
 #### Techs and Tools used to create this file
