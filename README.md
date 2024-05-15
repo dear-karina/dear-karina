@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
+>The words “ocean” and “sea” are often used to mean the same thing. A sea, however, is a small area of an ocean, usually with land on several sides. The Mediterranean, nestled between Africa and Europe, the Baltic in northern and central Europe, and the Caribbean between North, Central, and South America are all seas.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Great hopes make great men.
+>The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> luftmensch
+> raconteur
 >
 > > (n)  
-> > An impractical dreamer, literally an air person, someone with her head in the clouds.
+> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> If you are imaging you in a desert and you are felling thirsty and some camels start running you down and you are getting dehydrated WHAT WOULD YOU DO.
+> Which is correct to say, "The yolk of the egg are white," or "The yolk of the egg is white?"
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-STOP IMAGING
+Neither, because egg yolks are yellow.
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715574735158-9ebfdf26a99e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU2NzA4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Aurora Borealis over Early winter Spires, juxtaposed with milkyway.</p>
+<img src="https://images.unsplash.com/photo-1713464238868-666e916225af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU3NTcyMTZ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a man standing on top of a dirt road under a sky filled with stars</p>
 
 ---
 #### Techs and Tools used to create this file
