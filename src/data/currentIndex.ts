@@ -1,5 +1,5 @@
 export const currentIndexes={
-  "fact_index": 11,
+  "fact_index": 9,
   "photo_index": 0,
   "quote_index": 0,
   "riddle_index": 0,
