@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Our oceans cover around 71% of the Earth’s surface, but their depth means they actually contain 99.9% of the habitable space for life on Earth. They also contain 1.35 billion cubed kilometres of water.
+>The words “ocean” and “sea” are often used to mean the same thing. A sea, however, is a small area of an ocean, usually with land on several sides. The Mediterranean, nestled between Africa and Europe, the Baltic in northern and central Europe, and the Caribbean between North, Central, and South America are all seas.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->For a gallant spirit there can never be defeat.
+>Everyone here has the sense that right now is one of those moments when we are influencing the future.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> sirimiri
+> rimjhim
 >
 > > (n)  
-> > A light rain; A fine drizzle; Stronger than mist but less than a shower.
+> > The pitter-patter of a drizzle.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> White bird, featherless, flyin' out o' paradise, flyin' over sea and land, dyin' in my hand. What is it?
+> Whats a dogs favorite nature toy?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-A snowflake!
+Bark!!!!!!!!
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1713976630301-4de92cc92500?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU4NDM0NjF8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a black and white photo of a bike leaning against a wall</p>
+<img src="https://images.unsplash.com/photo-1714828099291-3df2c0b3d948?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU5ODczODB8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a man standing on top of a mountain</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ A snowflake!
 
 ---
 
-##### This file is updated every day. Last time at: 14:11 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
