@@ -29,19 +29,19 @@ export const getCurrentIndex=(index_type:ParamIndex)=>{
 const updateIndex=(index_type:ParamIndex)=>{
     switch (index_type) {
         case ParamIndex.FACT:
-            currentIndexes.fact_index = currentIndexes.fact_index <= 10 ? currentIndexes.fact_index + 1 : 0;
+            currentIndexes.fact_index = currentIndexes.fact_index < 10 ? currentIndexes.fact_index + 1 : 0;
             break;
         case ParamIndex.PHOTO:
-            currentIndexes.photo_index = currentIndexes.photo_index <= 10 ? currentIndexes.photo_index + 1 : 0;
+            currentIndexes.photo_index = currentIndexes.photo_index < 10 ? currentIndexes.photo_index + 1 : 0;
             break;
         case ParamIndex.QUOTE:
-            currentIndexes.quote_index = currentIndexes.quote_index <= 10 ? currentIndexes.quote_index + 1 : 0;
+            currentIndexes.quote_index = currentIndexes.quote_index < 10 ? currentIndexes.quote_index + 1 : 0;
             break;
         case ParamIndex.RIDDLE:
-            currentIndexes.riddle_index = currentIndexes.riddle_index <= 10 ? currentIndexes.riddle_index + 1 : 0;
+            currentIndexes.riddle_index = currentIndexes.riddle_index < 10 ? currentIndexes.riddle_index + 1 : 0;
             break;
         case ParamIndex.WORD:
-            currentIndexes.word_index = currentIndexes.word_index <= 10 ? currentIndexes.word_index + 1 : 0;
+            currentIndexes.word_index = currentIndexes.word_index < 10 ? currentIndexes.word_index + 1 : 0;
             break;    
         default:
             throw new Error("Invalid ParamIndex");
