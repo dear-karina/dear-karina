@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->The words “ocean” and “sea” are often used to mean the same thing. A sea, however, is a small area of an ocean, usually with land on several sides. The Mediterranean, nestled between Africa and Europe, the Baltic in northern and central Europe, and the Caribbean between North, Central, and South America are all seas.
+>Our oceans cover around 71% of the Earth’s surface, but their depth means they actually contain 99.9% of the habitable space for life on Earth. They also contain 1.35 billion cubed kilometres of water.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Think with your whole body.
+>It's inspirational to see someone who is dying smile.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> retrouvailles
+> hitoritabi
 >
 > > (n)  
-> > The happiness of meeting again after a long time.
+> > Traveling alone, solitary journey.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> whats black,round and shakes all over?
+> I am the only thing that tells the truth.I show off everything i see.I come in all shapes and sizes.So tell me what must i be?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-the rear-end of a typical hip-hop video girl
+A mirror
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715604723666-866e18a5d257?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTYyNTI2NTN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Dent Blanche in the evening dawn, 4358. View from Cabane de Tracuit.</p>
+<img src="https://images.unsplash.com/photo-1714770474609-2ba25a6c3d53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTYyNTI3MDV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">an old bicycle is leaning against a fence</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ the rear-end of a typical hip-hop video girl
 
 ---
 
-##### This file is updated every day. Last time at: 07:50 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 07:51 GMT + 7 🐢💚
 
 ---
