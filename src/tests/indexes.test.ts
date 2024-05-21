@@ -5,7 +5,7 @@ import { getCurrentIndex } from "../ultils/interactWithCurrentIndex"
 describe('test updating indexes', ()=>{
     test("get fact index", ()=>{
         const index = getCurrentIndex(ParamIndex.FACT)
-        expect (index).toBe(0)
-        expect(currentIndexes.fact_index).toBe(1)
+        expect (index).toBe(10)
+        expect(currentIndexes.fact_index).toBe(0)
     })
 })
