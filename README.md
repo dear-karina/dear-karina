@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Because only the first few hundred metres of the ocean are illuminated by the sun and half the planet is constantly experiencing night time, up to 99% of the ocean is actually in complete darkness all the time. Yet this is something that we rarely consider when thinking about our oceans.
+>The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->It is in your moments of decision that your destiny is shaped.
+>I have looked into your eyes with my eyes. I have put my heart near your heart.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> luftmensch
+> raconteur
 >
 > > (n)  
-> > An impractical dreamer, literally an air person, someone with her head in the clouds.
+> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> if i said hi for every time i said hi how many hi's would i say?
+> what is greter than God  what is eviler than the devil the poor have it the rich need it  if you eat it you die
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-i said hi
+nothing
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1713350472373-fb79157678b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTYzMzI5MjR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a group of tall buildings with a blue sky in the background</p>
+<img src="https://images.unsplash.com/photo-1714828176445-ebb0ce6dbd7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY0MTkzOTh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Notes from a sunny day</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ i said hi
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
