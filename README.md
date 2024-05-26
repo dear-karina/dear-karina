@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Why are our oceans blue? Water absorbs the red light of the color spectrum, leaving the blue for us to see.
+>Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->And now, this is the sweetest and most glorious day that ever my eyes did see.
+>I have looked into your eyes with my eyes. I have put my heart near your heart.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> petrichor
+> serendipity
 >
 > > (n)  
-> > The mild and pleasant smell or scent of earth associated with the first rain after a dry spell.
+> > The occurrence and development of events by chance in a happy or beneficial way.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> I can trap many different things and colors, Ever changing, not boring. Look closely and you may find yourself also caught in my trap. What am I?
+>  You are in a room that is completly bricked in on all four sides, including the cieling and floor. You have nothing but a mirror and a wooden table in the room with you. How do you get out?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-A mirror, or a pool of water.
+You look in the mirror you see what you saw, you take the saw and you cut the table in half, two halfs make a whole, and you climb out the hole. :)
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1714846428003-56cfb9e5433f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY2Nzg0NjZ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Xerophyte leaf cross section 40x</p>
+<img src="https://images.unsplash.com/photo-1716066508192-7ccd1a71ac1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3NjQ4ODR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a black and purple background with a circular design</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ A mirror, or a pool of water.
 
 ---
 
-##### This file is updated every day. Last time at: 06:07 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
 
 ---
