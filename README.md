@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
+>Half of the oxygen we breathe is produced in the ocean.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->I have looked into your eyes with my eyes. I have put my heart near your heart.
+>I know why I am here and my only real focused goal is to live each day to the fullest and to try and honor God and be an encouragement to others. What the future holds is firmly in God's hands, and I am very happy about that!
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> serendipity
+> mellifluous
 >
-> > (n)  
-> > The occurrence and development of events by chance in a happy or beneficial way.
+> > (adj)  
+> > A sound that’s pleasing and sweet to hear.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
->  You are in a room that is completly bricked in on all four sides, including the cieling and floor. You have nothing but a mirror and a wooden table in the room with you. How do you get out?
+> I am Greater than god, Eviler than the devil, rich people want me, poor people have me, if you eat me you die, blind people can see me. WHAT AM I?????
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-You look in the mirror you see what you saw, you take the saw and you cut the table in half, two halfs make a whole, and you climb out the hole. :)
+Nothing
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1716066508192-7ccd1a71ac1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3NjQ4ODR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a black and purple background with a circular design</p>
+<img src="https://images.unsplash.com/photo-1713959957908-ca41293553b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY4NTEyODh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a view of the mountains and clouds from above</p>
 
 ---
 #### Techs and Tools used to create this file
