@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Half of the oxygen we breathe is produced in the ocean.
+>Oceans help keep Earth’s climate habitable. By moving water around the globe, the oceans help to keep places from getting too hot or too cold.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->I know why I am here and my only real focused goal is to live each day to the fullest and to try and honor God and be an encouragement to others. What the future holds is firmly in God's hands, and I am very happy about that!
+>Noble deeds that are concealed are most esteemed.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> mellifluous
+> apricity
 >
-> > (adj)  
-> > A sound that’s pleasing and sweet to hear.
+> > (n)  
+> > The warmth of the sun in winter.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> I am Greater than god, Eviler than the devil, rich people want me, poor people have me, if you eat me you die, blind people can see me. WHAT AM I?????
+> This thing all things devours: Birds, beasts, trees, flowers; Gnaws iron, bites steel; Grinds hard stones to meal, Slays king, ruins town, And beats high mountains down. What am I?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-Nothing
+Time
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1713959957908-ca41293553b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY4NTEyODh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a view of the mountains and clouds from above</p>
+<img src="https://images.unsplash.com/photo-1714752493908-bdd641f85d42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY5Mzc3NDd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">an old car parked on the side of the road</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ Nothing
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
