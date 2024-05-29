@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Oceans help keep Earth’s climate habitable. By moving water around the globe, the oceans help to keep places from getting too hot or too cold.
+>Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Noble deeds that are concealed are most esteemed.
+>I am prepared for the worst, but hope for the best.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> apricity
+> rakuyou
 >
 > > (n)  
-> > The warmth of the sun in winter.
+> > Golden fallen or shedded leaves.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> This thing all things devours: Birds, beasts, trees, flowers; Gnaws iron, bites steel; Grinds hard stones to meal, Slays king, ruins town, And beats high mountains down. What am I?
+> What has two gray legs and two brown legs?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-Time
+An elephant with diaria
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1714752493908-bdd641f85d42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY5Mzc3NDd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">an old car parked on the side of the road</p>
+<img src="https://images.unsplash.com/photo-1714399518678-0d244ea921cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcwMjQxMDV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Bedroom (IG: @clay.banks)</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ Time
 
 ---
 
-##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
 
 ---
