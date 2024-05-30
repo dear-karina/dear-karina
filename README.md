@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
+>The words “ocean” and “sea” are often used to mean the same thing. A sea, however, is a small area of an ocean, usually with land on several sides. The Mediterranean, nestled between Africa and Europe, the Baltic in northern and central Europe, and the Caribbean between North, Central, and South America are all seas.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->I am prepared for the worst, but hope for the best.
+>Grace is the beauty of form under the influence of freedom.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> rakuyou
+> retrouvailles
 >
 > > (n)  
-> > Golden fallen or shedded leaves.
+> > The happiness of meeting again after a long time.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> What has two gray legs and two brown legs?
+> Sergi and Sally where sitting in their family room one night. While Sergi was watching T.V his wife Sally was reading. All of a sudden the power went out and Sergi decided to go to bed, but Sally kept on reading. With no use of artificial light, Sally kept on reading. How?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-An elephant with diaria
+Sally was blind... she was reading a book by Braille.
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1714399518678-0d244ea921cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcwMjQxMDV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Bedroom (IG: @clay.banks)</p>
+<img src="https://images.unsplash.com/photo-1715639116465-92add34d121f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcxMTA1NTZ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">The Villa, a Moroccan meets Mexican themed photography set inside 2Bloft Creative Studio in Montreal, Canada.</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ An elephant with diaria
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
