@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Our oceans cover around 71% of the Earth’s surface, but their depth means they actually contain 99.9% of the habitable space for life on Earth. They also contain 1.35 billion cubed kilometres of water.
+>Because only the first few hundred metres of the ocean are illuminated by the sun and half the planet is constantly experiencing night time, up to 99% of the ocean is actually in complete darkness all the time. Yet this is something that we rarely consider when thinking about our oceans.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->When deeds speak, words are nothing.
+>Someone's sitting in the shade today because someone planted a tree a long time ago.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> hitoritabi
+> luftmensch
 >
 > > (n)  
-> > Traveling alone, solitary journey.
+> > An impractical dreamer, literally an air person, someone with her head in the clouds.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> There was a tornado. A man went to take shelter in his basement. He was carrying candles down the wooden stairs when a sudden gust of wind made the house shake and him trip. The candles fell out of his hands and onto the wooden stairs. Why didn't the stairs catch fire?
+> WHAT DO U CALL A CHICKEN THAT CROSSED THE ROAD?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-They weren't lit in the first place.
+A DEAD CHICKEN. HAHAHA
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1714498988410-8ff6397ca441?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcxOTY4NTh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a snow covered mountain with trees in the foreground</p>
+<img src="https://images.unsplash.com/photo-1715276611505-fbea90d3e9e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcyODMzMDd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a view of a city at night from the top of a building</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ They weren't lit in the first place.
 
 ---
 
-##### This file is updated every day. Last time at: 06:07 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
 
 ---
