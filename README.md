@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Because only the first few hundred metres of the ocean are illuminated by the sun and half the planet is constantly experiencing night time, up to 99% of the ocean is actually in complete darkness all the time. Yet this is something that we rarely consider when thinking about our oceans.
+>The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Someone's sitting in the shade today because someone planted a tree a long time ago.
+>Every charitable act is a stepping stone toward heaven.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> luftmensch
+> raconteur
 >
 > > (n)  
-> > An impractical dreamer, literally an air person, someone with her head in the clouds.
+> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> WHAT DO U CALL A CHICKEN THAT CROSSED THE ROAD?
+> THE LETTER WHICH IS ALSO AN INSECT
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-A DEAD CHICKEN. HAHAHA
+THE ALPHABET B
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715276611505-fbea90d3e9e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcyODMzMDd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a view of a city at night from the top of a building</p>
+<img src="https://images.unsplash.com/photo-1715192680487-6a6cf6919e6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTczNjk2NzF8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">an empty room with a chandelier and a chair</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ A DEAD CHICKEN. HAHAHA
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:07 GMT + 7 🐢💚
 
 ---
