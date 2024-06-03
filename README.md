@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
 >The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Every charitable act is a stepping stone toward heaven.
+>The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> raconteur
+> sirimiri
 >
 > > (n)  
-> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
+> > A light rain; A fine drizzle; Stronger than mist but less than a shower.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> THE LETTER WHICH IS ALSO AN INSECT
+> What crawls on 4 legs in the morning, 2 in the afternoon, and 3 in the eavining
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-THE ALPHABET B
+A human, 4 legs(a baby crawling) 2 legs, and 3 (a elderley man walking with a cane)
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715192680487-6a6cf6919e6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTczNjk2NzF8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">an empty room with a chandelier and a chair</p>
+<img src="https://images.unsplash.com/photo-1714470564615-621519090941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0NTYxMTN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Fishing</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ THE ALPHABET B
 
 ---
 
-##### This file is updated every day. Last time at: 06:07 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
 
 ---
