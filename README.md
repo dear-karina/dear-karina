@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/389.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->The planet's longest mountain range is underwater and is 10 times longer than the Andes. Above water, the Andes mountain range is only about 4,300 miles long, while underwater, the Mid-Oceanic Ridge mountain range is around 40,390 miles long.
+>Why are our oceans blue? Water absorbs the red light of the color spectrum, leaving the blue for us to see.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->I pray God may preserve your health and life many years.
+>It is always the simple that produces the marvelous.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> rimjhim
+> petrichor
 >
 > > (n)  
-> > The pitter-patter of a drizzle.
+> > The mild and pleasant smell or scent of earth associated with the first rain after a dry spell.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> Their are three fully functioning light bulbs in a room hanging from the ceiling. You are in an adjacent room with no windows and three switches on the wall. You must find out which switch goes to which bulb. The rules, you can only flip two switches at a time and go and look at the bulbs. You may then turn off the switches and go back to the bulbs. After that, you can no longer look at the bulbs or touch the switches.
+> How do you know when a computer monitor is sad?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-Flip two switches and leave them on for a few muinets and go look at the bulbs. Then, flip off one switch and leave the other one on for a minuite or so more. Then go look at the bulbs. The hottest on is the last switch to be turned off, and the next hottest on it the second to last switch you turned off.
+When it breaks down
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1714668105771-b41382a58aa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc1NDI1NzZ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a wooden table topped with a can of beer and sunglasses</p>
+<img src="https://images.unsplash.com/photo-1717310627563-6244fc30dc5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc2Mjg5NTh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Sunset at Deer Leap</p>
 
 ---
 #### Techs and Tools used to create this file
