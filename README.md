@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Why are our oceans blue? Water absorbs the red light of the color spectrum, leaving the blue for us to see.
+>Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->It is always the simple that produces the marvelous.
+>The essential elements of giving are power and love - activity and affection - and the consciousness of the race testifies that in the high and appropriate exercise of these is a blessedness greater than any other.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> petrichor
+> serendipity
 >
 > > (n)  
-> > The mild and pleasant smell or scent of earth associated with the first rain after a dry spell.
+> > The occurrence and development of events by chance in a happy or beneficial way.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> How do you know when a computer monitor is sad?
+> A guy sold a pen to a customer. The seller said that it could write "underwater". But then the guy came back and complained that it couldnt. Yet the seller was able to write "underwater" How did he?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-When it breaks down
+He wrote the word "underwater".
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1717310627563-6244fc30dc5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc2Mjg5NTh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Sunset at Deer Leap</p>
+<img src="https://images.unsplash.com/photo-1714779573266-e81df2c73910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc3MTU0NDR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Abstract background image of a line wave pattern</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ When it breaks down
 
 ---
 
-##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:10 GMT + 7 🐢💚
 
 ---
