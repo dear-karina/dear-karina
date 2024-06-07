@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
+>Half of the oxygen we breathe is produced in the ocean.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->The essential elements of giving are power and love - activity and affection - and the consciousness of the race testifies that in the high and appropriate exercise of these is a blessedness greater than any other.
+>The power of imagination makes us infinite.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> serendipity
+> mellifluous
 >
-> > (n)  
-> > The occurrence and development of events by chance in a happy or beneficial way.
+> > (adj)  
+> > A sound that’s pleasing and sweet to hear.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> A guy sold a pen to a customer. The seller said that it could write "underwater". But then the guy came back and complained that it couldnt. Yet the seller was able to write "underwater" How did he?
+> Jordan is leaving from a small town in Wyoming and hiking through the wilderness to a post where he will spend the summer. The hike will take Jordan six days. One man can only carry enough food and water for four days. Jordan cannot take a mule or any other animal to haul his food and water, because there will be insufficient food and supplies for the animals at his destination. How can Jordan make it to his destination?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-He wrote the word "underwater".
+Jordan takes two other hikers with him. Each hiker starts out with a four day supply of food and water. After the first day, the first hiker gives a one day supply to each Jordan and the  second hiker. This leaves the first hiker with a one day supply to go home and Jordan and the second hiker now each have a four day supply again. After the second day, the second hiker gives Jordan a one day supply and keep a two day supply for himself so that he can get home. This gives Jordan a four day supply of food and water, and now he has enough to reach his destination.
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1714779573266-e81df2c73910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc3MTU0NDR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Abstract background image of a line wave pattern</p>
+<img src="https://images.unsplash.com/photo-1715627889572-aa53f37b8f01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc4MDE3Nzh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a long exposure photo of a person standing on a road</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ He wrote the word "underwater".
 
 ---
 
-##### This file is updated every day. Last time at: 06:10 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
