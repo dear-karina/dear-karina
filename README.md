@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Oceans help keep Earth’s climate habitable. By moving water around the globe, the oceans help to keep places from getting too hot or too cold.
+>Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->A human being has so many skins inside, covering the depths of the heart. We know so many things, but we don't know ourselves! Why, thirty or forty skins or hides, as thick and hard as an ox's or bear's, cover the soul. Go into your own ground and learn to know yourself there.
+>In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand. Nobody on earth can give you either the key or the door to open, except yourself.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> apricity
+> rakuyou
 >
 > > (n)  
-> > The warmth of the sun in winter.
+> > Golden fallen or shedded leaves.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> 3 MEN GO INTO A MOTEL. THE MAN BEHIND THE  DESK SAID THE ROOM IS $30, SO EACH MAN  PAID $10 AND WENT TO THE ROOM.  A WHILE LATER THE MAN BEHIND THE DESK REALIZED  THE ROOM WASONLY $25, SO HE SENT THE BELLBOY TO THE  3 GUYS' ROOM WITH $5.  ON THE WAY THE BELLBOY COULDN'T FIGURE OUT HOW  TO SPLIT $5 EVENLY BETWEEN 3 MEN, SO HE GAVE EACH MAN A $1  AND KEPT THE OTHER $2  FOR HIMSELF.  THIS MEANT THAT THE 3 MEN EACH PAID $9 FOR  THE ROOM, WHICH IS  A TOTALOF $27, ADD THE $2 THAT THE BELLBOY KEPT  = $29.  WHERE IS THE OTHER DOLLAR?
+> There is one thing that can be...Bad,good,and perfect.But it can't be 2 things.What am I?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-I dont know
+FOOD
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715571527459-84b49e550d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc4ODgxMjd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Autumn Zinnia</p>
+<img src="https://images.unsplash.com/photo-1715464881886-0fd63cd7997b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc5NzQ0ODR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">By FAKURIANDESIGN</p>
 
 ---
 #### Techs and Tools used to create this file
