@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
+>The words “ocean” and “sea” are often used to mean the same thing. A sea, however, is a small area of an ocean, usually with land on several sides. The Mediterranean, nestled between Africa and Europe, the Baltic in northern and central Europe, and the Caribbean between North, Central, and South America are all seas.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand. Nobody on earth can give you either the key or the door to open, except yourself.
+>The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another's, smile at someone and receive a smile in return, are to me continual spiritual exercises.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> rakuyou
+> retrouvailles
 >
 > > (n)  
-> > Golden fallen or shedded leaves.
+> > The happiness of meeting again after a long time.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> There is one thing that can be...Bad,good,and perfect.But it can't be 2 things.What am I?
+> How does an elephant hide in a cherry tree?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-FOOD
+It paints it's toenails red.
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715464881886-0fd63cd7997b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc5NzQ0ODR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">By FAKURIANDESIGN</p>
+<img src="https://images.unsplash.com/photo-1716492444249-e5a6981daf58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgwNjA5MDJ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a group of sand dunes in the desert</p>
 
 ---
 #### Techs and Tools used to create this file
