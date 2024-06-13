@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/143.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Because only the first few hundred metres of the ocean are illuminated by the sun and half the planet is constantly experiencing night time, up to 99% of the ocean is actually in complete darkness all the time. Yet this is something that we rarely consider when thinking about our oceans.
+>The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Tears of joy are like the summer rain drops pierced by sunbeams.
+>I arise full of eagerness and energy, knowing well what achievement lies ahead of me.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> luftmensch
+> raconteur
 >
 > > (n)  
-> > An impractical dreamer, literally an air person, someone with her head in the clouds.
+> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> A very pretty thing am I, fluttering in the pale-blue sky. Delicate, fragile on the wing, indeed I am a pretty thing. What am I?
+> thirty white horses on a red hill; first they champ; then they stamp; then they stand still?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-I am a Butterfly.
+teeth
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715374033196-0ff662284a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgyMzM3MTB8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a woman is working on a piece of jewelry</p>
+<img src="https://images.unsplash.com/photo-1717526247752-30143a1ae29b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgzMjAxMjR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">an owl sitting on top of a wooden fence</p>
 
 ---
 #### Techs and Tools used to create this file
