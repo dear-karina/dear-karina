@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
 >The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->I arise full of eagerness and energy, knowing well what achievement lies ahead of me.
+>As knowledge increases, wonder deepens.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> raconteur
+> sirimiri
 >
 > > (n)  
-> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
+> > A light rain; A fine drizzle; Stronger than mist but less than a shower.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> thirty white horses on a red hill; first they champ; then they stamp; then they stand still?
+> There was a train that carried 100 people on it. The train took a tight turn and flipped onto it's side. When the police got there, they reported that all 100 people were alive and minorly hurt, but two of the people were reported Dead (with a capital "D"). How is this possible?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-teeth
+The two people were Mr. Dead and Mrs. Dead
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1717526247752-30143a1ae29b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgzMjAxMjR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">an owl sitting on top of a wooden fence</p>
+<img src="https://images.unsplash.com/photo-1689602037070-fec2eca3f5b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg0MDY1MDd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a field of sunflowers with trees in the background</p>
 
 ---
 #### Techs and Tools used to create this file
