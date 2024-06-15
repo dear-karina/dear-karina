@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/119.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->The average depth of the ocean is 12,100 feet.
+>The planet's longest mountain range is underwater and is 10 times longer than the Andes. Above water, the Andes mountain range is only about 4,300 miles long, while underwater, the Mid-Oceanic Ridge mountain range is around 40,390 miles long.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->As knowledge increases, wonder deepens.
+>Every moment and every event of every man's life on earth plants something in his soul.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> sirimiri
+> rimjhim
 >
 > > (n)  
-> > A light rain; A fine drizzle; Stronger than mist but less than a shower.
+> > The pitter-patter of a drizzle.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> There was a train that carried 100 people on it. The train took a tight turn and flipped onto it's side. When the police got there, they reported that all 100 people were alive and minorly hurt, but two of the people were reported Dead (with a capital "D"). How is this possible?
+> what goes up but never comes down  you wont see it looking down at the ground
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-The two people were Mr. Dead and Mrs. Dead
+the stars
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1689602037070-fec2eca3f5b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg0MDY1MDd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a field of sunflowers with trees in the background</p>
+<img src="https://images.unsplash.com/photo-1718137535703-ce871d52cb38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg0OTI5NDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Crater Lake</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ The two people were Mr. Dead and Mrs. Dead
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
