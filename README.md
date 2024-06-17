@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Why are our oceans blue? Water absorbs the red light of the color spectrum, leaving the blue for us to see.
+>Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Give light and people will find the way.
+>Love and desire are the spirit's wings to great deeds.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> petrichor
+> serendipity
 >
 > > (n)  
-> > The mild and pleasant smell or scent of earth associated with the first rain after a dry spell.
+> > The occurrence and development of events by chance in a happy or beneficial way.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> I can be heavy, I can be light. Most people say I'm blue, I'm clear. There is no colour to me, but yet I can be seen. Most people take me for granted. What am I?
+> Often held but never touched, always wet but never rusts, to use me well you must have wit. What am I?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-Water
+Your tongue!
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1718248028321-81be470c2be6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg1NzkzMzl8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a man in a blue suit and tie jumping in the air</p>
+<img src="https://images.unsplash.com/photo-1718301162350-fddcdafa19bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg2NjU3MDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">What does the fox say?</p>
 
 ---
 #### Techs and Tools used to create this file
