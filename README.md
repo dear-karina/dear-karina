@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
+>Half of the oxygen we breathe is produced in the ocean.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Love and desire are the spirit's wings to great deeds.
+>Be faithful to that which exists within yourself.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> serendipity
+> mellifluous
 >
-> > (n)  
-> > The occurrence and development of events by chance in a happy or beneficial way.
+> > (adj)  
+> > A sound that’s pleasing and sweet to hear.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> Often held but never touched, always wet but never rusts, to use me well you must have wit. What am I?
+> if a man walks up to you and says evrey im telling you is a lie is he telling the truth or is he lieing?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-Your tongue!
+its a paredox and no answer exists
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1718301162350-fddcdafa19bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg2NjU3MDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">What does the fox say?</p>
+<img src="https://images.unsplash.com/photo-1716136716704-7d5f7bbb6de4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg3NTIwOTV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">the tokyo tower is lit up at night</p>
 
 ---
 #### Techs and Tools used to create this file
