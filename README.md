@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Oceans help keep Earth’s climate habitable. By moving water around the globe, the oceans help to keep places from getting too hot or too cold.
+>Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Think with your whole body.
+>Every charitable act is a stepping stone toward heaven.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> apricity
+> rakuyou
 >
 > > (n)  
-> > The warmth of the sun in winter.
+> > Golden fallen or shedded leaves.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> What is Black,White and Red all over?
+> A man is writing a letter, the power goes out and then he dies. Why did he die?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-A penguin with a sunburn.
+He is in a plane sky writing.
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1716847214815-973025e97173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4Mzg1MjJ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a house in the middle of a forest next to a river</p>
+<img src="https://images.unsplash.com/photo-1716635312355-e727dfde0705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg5MjQ5NTh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a wall covered in lots of pink and white vases</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ A penguin with a sunburn.
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
