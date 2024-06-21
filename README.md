@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
+>The words “ocean” and “sea” are often used to mean the same thing. A sea, however, is a small area of an ocean, usually with land on several sides. The Mediterranean, nestled between Africa and Europe, the Baltic in northern and central Europe, and the Caribbean between North, Central, and South America are all seas.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Every charitable act is a stepping stone toward heaven.
+>The power of imagination makes us infinite.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> rakuyou
+> retrouvailles
 >
 > > (n)  
-> > Golden fallen or shedded leaves.
+> > The happiness of meeting again after a long time.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> A man is writing a letter, the power goes out and then he dies. Why did he die?
+> What is special bout the word "FOUR"?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-He is in a plane sky writing.
+it is the only word that has the same amount of letters in the word as the number it represents!
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1716635312355-e727dfde0705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg5MjQ5NTh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a wall covered in lots of pink and white vases</p>
+<img src="https://images.unsplash.com/photo-1715553176036-76af0d949e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkwMTEyNjR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">the sun is shining on a mountain range</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ He is in a plane sky writing.
 
 ---
 
-##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:07 GMT + 7 🐢💚
 
 ---
