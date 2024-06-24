@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/302.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Because only the first few hundred metres of the ocean are illuminated by the sun and half the planet is constantly experiencing night time, up to 99% of the ocean is actually in complete darkness all the time. Yet this is something that we rarely consider when thinking about our oceans.
+>The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.
+>The single most important thing in a child's performance is the quality of the teacher. Making sure a child spends the maximum amount of time with inspirational teachers is the most important thing.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> luftmensch
+> raconteur
 >
 > > (n)  
-> > An impractical dreamer, literally an air person, someone with her head in the clouds.
+> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> A boy is hit by a train moving full speed along the tracks yet he survives with no injuries. Instead the train is derailed. How did this happen?
+> were do cows go for drinks
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-It was a electic toy train set he had built and accidentally stepped on the track causing the train to go off course.
+the pharmacy
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1715144536782-dc33ae3a1aa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkxODQxMjh8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">the sun is setting over the ocean with waves</p>
+<img src="https://images.unsplash.com/photo-1717912910524-62aba9cfcd4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyNzA1ODV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a spiral staircase in a building with a skylight</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ It was a electic toy train set he had built and accidentally stepped on the trac
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
