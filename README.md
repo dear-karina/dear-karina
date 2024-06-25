@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/122.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
 >The average depth of the ocean is 12,100 feet.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->The single most important thing in a child's performance is the quality of the teacher. Making sure a child spends the maximum amount of time with inspirational teachers is the most important thing.
+>If you accept the expectations of others, especially negative ones, then you never will change the outcome.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> raconteur
+> sirimiri
 >
 > > (n)  
-> > A talented storyteller who’s able to spin amusing tales from everyday tales; A person who tells anecdotes skillfully and amusingly.
+> > A light rain; A fine drizzle; Stronger than mist but less than a shower.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> were do cows go for drinks
+> one day a nanny was looking for a job and saw one in a newspaper so she found an adress and talked to the lady and soon the kids come out and they fun up to her and what did they say
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-the pharmacy
+hi grandma
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1717912910524-62aba9cfcd4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyNzA1ODV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">a spiral staircase in a building with a skylight</p>
+<img src="https://images.unsplash.com/photo-1716681864605-e3ac39e9aea4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkzNTY5MDN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">Apple Laptop, MacBook, Laptop, Apple, Tech, Electronic, Computer, PC, Minimal, Grey, Workspace, Keyboard, Work, MacBook Pro, Mockup, iPhone 10, Technology, Digital, Marketing, Success, Domestic Room, Business, Office, HQ Background Images, Website Backgrounds, Keyboard Backgrounds, HD Mac Wallpapers, Hardware, Work, Workfromhome, Tech, Minsk, Working from Home, HD Computer Wallpapers, Apple Images & Photos, HD Tablet Wallpapers, HD White Wallpapers, HD Phone Wallpapers, Watch, Technology, Digital, Marketing, Table, Desk, iMac, Mouse Pictures & Images, HD Laptop Wallpapers, Gadgets, Computer</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ the pharmacy
 
 ---
 
-##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
 
 ---
