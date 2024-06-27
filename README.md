@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/296.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->The planet's longest mountain range is underwater and is 10 times longer than the Andes. Above water, the Andes mountain range is only about 4,300 miles long, while underwater, the Mid-Oceanic Ridge mountain range is around 40,390 miles long.
+>Why are our oceans blue? Water absorbs the red light of the color spectrum, leaving the blue for us to see.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Everyone here has the sense that right now is one of those moments when we are influencing the future.
+>Tears of joy are like the summer rain drops pierced by sunbeams.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> rimjhim
+> petrichor
 >
 > > (n)  
-> > The pitter-patter of a drizzle.
+> > The mild and pleasant smell or scent of earth associated with the first rain after a dry spell.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> I have no wings yet I fly, I have no voice yet I cry. What am I?
+> You have three stoves: a gas stove, a wood stove, and a coal stove, but only one match. Which should you light first?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-The Wind
+The match!
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1718955331224-b8bf1b36e60e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk0NDMzMTN8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">A jeep with a tent on top of it</p>
+<img src="https://images.unsplash.com/photo-1718634353354-fa2fc07e3080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk1Mjk3Njd8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">crowd cheering at public viewing</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ The Wind
 
 ---
 
-##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
 
 ---
