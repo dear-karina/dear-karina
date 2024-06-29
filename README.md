@@ -19,34 +19,34 @@ Play Reeve - Play Reality
 
 </div>
 <h3 align="center">
-     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png" alt="weather" height="22px" width="22px" /><br>
+     Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Sound travels underwater 4.3x faster compared to air – this makes determining direction of sound near impossible for divers.
+>Half of the oxygen we breathe is produced in the ocean.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->When deeds speak, words are nothing.
+>Once I knew only darkness and stillness... my life was without past or future... but a little word from the fingers of another fell into my hand that clutched at emptiness, and my heart leaped to the rapture of living.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> serendipity
+> mellifluous
 >
-> > (n)  
-> > The occurrence and development of events by chance in a happy or beneficial way.
+> > (adj)  
+> > A sound that’s pleasing and sweet to hear.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> what can go forever if you read it?
+> the more they are the lesser you see?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-the title. (read the title and follow the directions of the title)
+ants
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1690268797605-5033c2fe94ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk2MTYxNDZ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">Flower pattern https://www.flickr.com/photos/bergen_public_library/9004700619/</p>
+<img src="https://images.unsplash.com/photo-1719179512969-84e9863abbf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk3MDI1MjR8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">fluid,fluid art,abstract,abstract art,abstract background,abstract dark,texture,texture background,texture wall,texture paper,background,background image,background design,background texture,pattern,pattern background,patterns and textures,wall,wall background,wall art,wall painting,background for pc,background for web,background for website,full hd wallpaper,full screen wallpaper,full hd,full screen,full color,full colour,full colours,sphere,dots,circle,cubes,3d,galaxy,stars,andromeda</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ the title. (read the title and follow the directions of the title)
 
 ---
 
-##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
 
 ---
