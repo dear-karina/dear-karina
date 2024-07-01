@@ -22,31 +22,31 @@ Play Reeve - Play Reality
      Today's Update <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png" alt="weather" height="22px" width="22px" /><br>
 
 ##### 🐬 Every day, on behalf of Yejunie, I deliver a story about the marine.
->Oceans help keep Earth’s climate habitable. By moving water around the globe, the oceans help to keep places from getting too hot or too cold.
+>Water at the bottom of the ocean is incredibly hot. Water coming out of hydrothermal vents in the seafloor can be up to 750º Fahrenheit. The intense pressure at these depths keeps the water from boiling.
 
 ##### 🦙 Every day, on behalf of our Noah, I share an interesting quote.
->Gratitude is the fairest blossom which springs from the soul.
+>The best form of flattery is to be admired, imitated or respected. I've always felt proud our fans look up to us or feel we are inspirational.
 
 ##### 🦌 Every day, on behalf of dear Bamby-nie, I share a beautiful word with meaning.
-> apricity
+> rakuyou
 >
 > > (n)  
-> > The warmth of the sun in winter.
+> > Golden fallen or shedded leaves.
 
 ##### 🐺 Every day, on behalf of Silver-ho, I offer a riddle.
-> There are two men in a desert and they have to deliver a message it takes 9 days to get there and back.They have twelve days supplies (Food and water in one supply)The message was delivered both men returned safely on foot.They did not find any food on the way.
+> A little boy has green eyes, the next day they are gray. Monday the next week they are blue. What color are they?
 
 <details close>
 
 <summary>🕺🏻 Reveal the answer here 🕺🏻</summary>
 
-They got given the food when they delievered the messsage as a gift.
+They are hazel.
 </details>
 
 
 ##### 🐈‍⬛ OKAYY!! Lastly, on behalf of Haminie, I share a photo you may like to see.
-<img src="https://images.unsplash.com/photo-1717267918107-469f3be10d4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk3ODg5NTJ8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
-<p align="center">To absent friends.</p>
+<img src="https://images.unsplash.com/photo-1715449187020-e090eb0dc3d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1OTY5NzZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk4NzUzMzV8&ixlib=rb-4.0.3&q=80&w=1080" width="1050px">
+<p align="center">a person sitting on a bench on a pier</p>
 
 ---
 #### Techs and Tools used to create this file
@@ -70,6 +70,6 @@ They got given the food when they delievered the messsage as a gift.
 
 ---
 
-##### This file is updated every day. Last time at: 06:09 GMT + 7 🐢💚
+##### This file is updated every day. Last time at: 06:08 GMT + 7 🐢💚
 
 ---
